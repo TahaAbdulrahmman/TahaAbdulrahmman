@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/TahaAbdulrahmman/static/css/main.557711a7.css",
+    "main.js": "/TahaAbdulrahmman/static/js/main.1f1def0f.js",
+    "static/media/land.png": "/TahaAbdulrahmman/static/media/land.c16504699915405f2608.png",
+    "static/media/resume.pdf": "/TahaAbdulrahmman/static/media/resume.a8b367b0635e8a6ab913.pdf",
+    "static/media/elsultan.png": "/TahaAbdulrahmman/static/media/elsultan.47e5ec666cc7c2ccb4f1.png",
+    "static/media/logo.jpg": "/TahaAbdulrahmman/static/media/logo.b544f0b4a563a59cae55.jpg",
+    "static/media/sound.mp3": "/TahaAbdulrahmman/static/media/sound.638130bf53d2ecc17e7e.mp3",
+    "static/media/about.svg": "/TahaAbdulrahmman/static/media/about.ca36f8588a93531f7d944154c359d2e2.svg",
+    "static/media/bootstrap.png": "/TahaAbdulrahmman/static/media/bootstrap.9cd429090069a189475b.png",
+    "static/media/elzero.webp": "/TahaAbdulrahmman/static/media/elzero.8309de4e02c1484a5683.webp",
+    "static/media/nmec.webp": "/TahaAbdulrahmman/static/media/nmec.0abdb372ae6118176610.webp",
+    "static/media/reactjs.png": "/TahaAbdulrahmman/static/media/reactjs.20adfb35ae6a6e5817bf.png",
+    "static/media/github.png": "/TahaAbdulrahmman/static/media/github.4ca3b832efd81a65a429.png",
+    "static/media/css.png": "/TahaAbdulrahmman/static/media/css.d1a3c1e59ca82dbdf815.png",
+    "static/media/gi.png": "/TahaAbdulrahmman/static/media/gi.63b94516b0c8926a967f.png",
+    "static/media/html.png": "/TahaAbdulrahmman/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/js.png": "/TahaAbdulrahmman/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/sass.svg": "/TahaAbdulrahmman/static/media/sass.8aa78a8393470431c8036541f0708bd7.svg",
+    "index.html": "/TahaAbdulrahmman/index.html",
+    "main.557711a7.css.map": "/TahaAbdulrahmman/static/css/main.557711a7.css.map",
+    "main.1f1def0f.js.map": "/TahaAbdulrahmman/static/js/main.1f1def0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.557711a7.css",
+    "static/js/main.1f1def0f.js"
+  ]
+}
